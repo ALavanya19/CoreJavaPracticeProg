@@ -1,4 +1,4 @@
-package com.Exceptionsex;
+package com.ExceptionsExample;
 
 public class TryCatch {
 
